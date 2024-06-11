@@ -1,0 +1,9 @@
+resnet50:
+  layers: 50
+  pretrained: true
+  other_config: value
+
+another_backbone:
+  layers: 101
+  pretrained: false
+  other_config: value

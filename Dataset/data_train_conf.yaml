@@ -1,0 +1,6 @@
+MegaFace:
+  cropped_face_folder: "E:/Aiwi/FACTOR/Dataset/cropped_claimed_identity"
+  image_list_file: "E:/Aiwi/FACTOR/Dataset/image_list_train"
+  megaface-mask: 0
+  masked_cropped_face_folder: ''
+  masked_image_list_file: ''
